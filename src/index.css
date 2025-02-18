@@ -1,0 +1,60 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+  text-align: center;
+  background-color: #f8f9fa; /* Optional: Set a background color */
+}
+.wrapper button{
+  background-color: #614101;
+  color: #f8f9fa;
+  width: 200px;
+  padding: 5px;
+  margin: 20px 20px;
+}
+
+
+.wrapper {
+  width: 500px;
+  margin: 0 auto; /* Centers it */
+}
+
+.items{
+  color: white;
+  background: #614101;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+}
+.title{
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+.space {
+  height: 100vh; /* Adjust size */
+  width: 100vw;
+  background-color: black;
+  color: white;
+}
+
+.space button{
+  color: beige;
+  background-color: #614101;
+  margin-top: 20px;
+  padding: 5px 5px;
+}
+.space h2{
+  text-align: center;
+  font-size: 5rem;
+}
+
+.space p{
+  text-align: center;
+  font-size: 3rem;
+  
+}
