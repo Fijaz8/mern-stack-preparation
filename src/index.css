@@ -58,3 +58,9 @@ html, body {
   font-size: 3rem;
   
 }
+.sliderimage{
+  display: flex;
+  justify-content: enter;
+  align-items:center;
+  height:100vh;
+}
